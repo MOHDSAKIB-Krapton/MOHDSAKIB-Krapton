@@ -1,13 +1,14 @@
 ![Masthead](https://images.unsplash.com/photo-1598978483528-fd57466ab0ad?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Mohd Sakib</h1>
 <h3 align="center">Crafting Digital Solutions with Passion and Precision</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF2MXc1dnRmbTM5emlzbWFvNzdjYjY4ZzgxeDZxYWEwMzZibW9mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif)" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsakib-krapton&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsakib-krapton" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsakib-krapton" alt="mohdsakib-krapton" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itz_me_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/itz_me_sakib?logo=twitter&style=for-the-badge" alt="itz_me_sakib" /></a> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF2MXc1dnRmbTM5emlzbWFvNzdjYjY4ZzgxeDZxYWEwMzZibW9mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" />
 
 - 🔭 I’m currently working on [Tekish Health](https://github.com/tekishrpm-ai/tekishhealth-native-app)
 

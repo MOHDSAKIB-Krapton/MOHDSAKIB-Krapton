@@ -1,4 +1,6 @@
-![Masthead]([https://images.unsplash.com/photo-1598978483528-fd57466ab0ad?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://www.canva.com/design/DAGM6ZNrU0o/hEq6qdx9o2lntaqLia-wsA/edit?utm_content=DAGM6ZNrU0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Banner Image](images/Banner.png)
+<!-- ![Banner GIF](images/Banner.gif) -->
+
 <h1 align="center">Hi 👋, I'm Mohd Sakib</h1>
 <h3 align="center">Crafting Digital Solutions with Passion and Precision</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsakib-krapton&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsakib-krapton" /> </p>

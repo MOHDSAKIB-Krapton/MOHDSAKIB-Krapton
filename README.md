@@ -1,4 +1,4 @@
-![Masthead](https://images.unsplash.com/photo-1598978483528-fd57466ab0ad?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Masthead]([https://images.unsplash.com/photo-1598978483528-fd57466ab0ad?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://www.canva.com/design/DAGM6ZNrU0o/hEq6qdx9o2lntaqLia-wsA/edit?utm_content=DAGM6ZNrU0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 <h1 align="center">Hi 👋, I'm Mohd Sakib</h1>
 <h3 align="center">Crafting Digital Solutions with Passion and Precision</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsakib-krapton&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsakib-krapton" /> </p>
@@ -39,13 +39,13 @@
 
 <p align="center">
   <a href="https://github.com/mohdsakib-krapton">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsakib-krapton&" alt="mohdsakib-krapton's streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsakib-krapton&theme=dracula" alt="mohdsakib-krapton's streak stats" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdsakib-krapton&show_icons=true&locale=en&layout=compact" alt="mohdsakib-krapton" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdsakib-krapton&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohdsakib-krapton" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdsakib-krapton&show_icons=true&include_all_commits=true&locale=en" alt="mohdsakib-krapton" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdsakib-krapton&show_icons=true&include_all_commits=true&locale=en&theme=dracula" alt="mohdsakib-krapton" /></p>
 
 ## My Contributions
 

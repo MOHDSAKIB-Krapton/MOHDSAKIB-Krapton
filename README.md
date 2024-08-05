@@ -1,56 +1,156 @@
 ![Banner Image](images/Banner.png)
 <!-- ![Banner GIF](images/Banner.gif) -->
 
-<h1 align="center">Hi 👋, I'm Mohd Sakib</h1>
-<h3 align="center">Crafting Digital Solutions with Passion and Precision</h3>
+<h1 align="left">Oi world, I'm Mohd Sakib</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsakib-krapton&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsakib-krapton" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsakib-krapton" alt="mohdsakib-krapton" /></a> </p>
+<div class="github-introduction">
 
-<p align="left"> <a href="https://twitter.com/itz_me_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/itz_me_sakib?logo=twitter&style=for-the-badge" alt="itz_me_sakib" /></a> </p>
+I am a passionate **fullstack developer** weaving intricate tapestries of code for both **web** and **mobile** realms. My journey through the digital landscape is akin to a poet's exploration of words — **each line of code a verse, each project a masterpiece**. With a profound love for technology, I craft seamless and intuitive user experiences, driven by curiosity and a relentless pursuit of innovation. From the elegance of **JavaScript** to the robustness of **React Native**, my work is a harmonious blend of creativity and technical prowess, always striving to push the boundaries of what's possible.
+
+</div>
+
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:mohdsakib@krapton.com">email.</a>
+- 💬 Curious? Just ask!
+
+## 🖥️ Technologies I know and Work with
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
+![Appwrite](https://img.shields.io/badge/-Appwrite-000000?style=flat&logo=appwrite&logoColor=#F02E65)
+![Blender](https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=#F5792A)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=#7952B3)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=#A8B9CC)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000000?style=flat&logo=chartdotjs&logoColor=#FF6384)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=#00599C)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=#000000)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=#F24E1E)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=#F05032)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=#47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=#4479A1)
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=#E0234E)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=#FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=#339933)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobephotoshop&logoColor=#31A8FF)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=#FF6C37)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=#61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=#764ABC)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=#06B6D4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
 
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF2MXc1dnRmbTM5emlzbWFvNzdjYjY4ZzgxeDZxYWEwMzZibW9mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" />
+## 📈 My GitHub stats
 
-- 🔭 I’m currently working on [Tekish Health](https://github.com/tekishrpm-ai/tekishhealth-native-app)
-
-- 🌱 I’m currently learning **NestJS, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-b4baf.web.app/](https://portfolio-b4baf.web.app/)
-
-- 💡 About Me **I'm a dynamic Full-Stack Developer from India with a knack for creating seamless user experiences and robust backend systems. My journey in the tech world is fueled by a deep passion for learning and innovation.**
-
-- 💬 Ask me about **React, HTML, CSS, JavaScript(JS), TypeScript(TS), Bootstrap, Tailwind CSS, Vite, Expo, React-Native, NativeWind, Firebase, NestJS, Node.js And more!**
-
-- 📫 How to reach me **danishkhan9886283@gmail.com**
-
-- ⚡ Fun fact **♚ Did you know? The longest chess game theoretically possible is 5,949 moves! That's almost as long as explaining to someone why the horsey piece is called a knight.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itz_me_sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_me_sakib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohdsakib001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdsakib001" height="30" width="40" /></a>
-<a href="https://fb.com/mohdsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohdsakib" height="30" width="40" /></a>
-<a href="https://instagram.com/saifi_sakib_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifi_sakib_001" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-## My GitHub Stats
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohdsakib-krapton&theme=tokyonight&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&count_private=true" alt="Mohd Sakib's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsakib-krapton&theme=tokyonight&hide_border=true" alt="Mohd Sakib's Streak" height="165">
+  </p>
+</div>
 
 <p align="center">
-  <a href="https://github.com/mohdsakib-krapton">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsakib-krapton&theme=dracula" alt="mohdsakib-krapton's streak stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsakib-krapton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdsakib-krapton&theme=tokyonight&no_border=true" alt="mohdsakib-krapton" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdsakib-krapton&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohdsakib-krapton" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdsakib-krapton&show_icons=true&include_all_commits=true&locale=en&theme=dracula" alt="mohdsakib-krapton" /></p>
 
 ## My Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsakib-krapton&theme=dracula" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsakib-krapton&theme=tokyonight" alt="Profile Summary" />
 </p>
+
+## 📃 I love documentation
+
+Not many developers like to write documentation. I do though. I believe that a well-documented codebase is as important as the code itself. Its like a story telling what the code can do and how it does it. I always try to write clear, concise, and useful documentation.
+
+Whenever I write documentation i try to follow keep in mind the following steps to make sure the reader gets the most out of it:
+
+```markdown
+1. What is this documentation about?
+2. Why is this documentation important?
+3. How can the reader use this documentation?
+4. When should the reader use this documentation?
+5. Who is this documentation for?
+```
+
+### <p align="center">⚙️ My development environment </p>
+
+> I grew up with Windows and have a special place in my heart for it. It's my go-to operating system for development. I enjoy using the Windows and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> for my terminal.
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+  
+  #### 🖥️ Windows aficionado: 
+  My development journey is powered by the robust and versatile Windows environment. From its seamless integration with tools and technologies to 
+  its rich ecosystem, Windows is where my creative and technical passions come alive! 🌟
+
+  ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+  </td>
+  <td valign="top" width="50%">
+  
+  #### 🐧 Linux Enthusiast
+  
+  I used to work with Linux and am always open to exploring new technologies.
+  
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
+  
+  </td>
+  </tr>
+  </table>
+</div>
+
+## Connect with me:- 
+<p align="center">
+  <!-- Twitter -->
+<a href="https://twitter.com/itz_me_sakib" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/mohdsakib-krapton" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="mailto:mohdsakib@krapton.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="YouTube" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+

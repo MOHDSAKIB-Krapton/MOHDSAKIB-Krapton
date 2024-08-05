@@ -51,8 +51,9 @@ I am a passionate **fullstack developer** weaving intricate tapestries of code f
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsakib-krapton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsakib-krapton&langs_count=15&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohdsakib-krapton&theme=tokyonight&no_border=true" alt="mohdsakib-krapton" />
 </p>

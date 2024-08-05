@@ -124,32 +124,32 @@ Whenever I write documentation i try to follow keep in mind the following steps 
 </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/mohdsakib001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/mohdsakib-krapton" target="_blank">
+  <a href="https://github.com/mohdsakib001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100024167102946" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/saifi_sakib_001" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <!-- YouTube -->
+  <!-- Email -->
   <a href="mailto:mohdsakib@krapton.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="YouTube" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://portfolio-b4baf.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
